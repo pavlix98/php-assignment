@@ -18,7 +18,7 @@ The comment will then contain:
 - date of publication (datetime)
 - id of the comment to which he/she is responding (int, optional)
 
-Implement a simple service that will allow you to display a list of articles, article details, add a new article, and similarly work with comments. The appearance of the resulting page doesn't matter, the functionality and architecture design is important. Do not use any external libraries - everything should be written in pure PHP (version 7).
+Implement a simple service that will allow you to display a list of articles, article details, add a new article, and similarly work with comments. The appearance of the resulting page **doesn't matter**, the functionality and architecture design is important. Do not use any external libraries - everything should be written in pure PHP (version 7).
 
 The goal is to practice class structure design, i.e. focusing on design patterns. At least some of the following design patterns should be used during development: Data Mapper, Repository, Simple Factory, Builder, Fluent Interface. Also note that any data that will be transferred in the application should be in the form of an object, not an untyped array (if possible, of course). The resulting complexity of drafting and using more complex constructs is entirely up to you.
 
