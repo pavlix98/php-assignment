@@ -20,7 +20,7 @@ The comment will then contain:
 
 Implement a simple service that will allow you to display a list of articles, article details, add a new article, and similarly work with comments. The appearance of the resulting page **doesn't matter**, the functionality and architecture design is important. Do not use any external libraries - everything should be written in pure PHP (preferably version 8).
 
-The goal is to practice class structure design, i.e. focusing on design patterns. At least some of the following design patterns should be used during development: Data Mapper, Repository, Simple Factory, Builder, Fluent Interface. Also note that any data that will be transferred in the application should be in the form of an object, not an untyped array (if possible, of course). The resulting complexity of drafting and using more complex constructs is entirely up to you.
+The goal is to practice class structure design, i.e. focusing on design patterns. Also note that any data that will be transferred in the application should be in the form of an object, not an untyped array (if possible, of course). The resulting complexity of drafting and using more complex constructs is entirely up to you.
 
 Create a repository on github.com and commit the source code there to a separate branch (e.g. feature/cms) on an ongoing basis, then commit that branch as a pull request / merge request to the master and add the Reviewer role to the following account for that pull request:
 
