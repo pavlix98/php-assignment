@@ -26,3 +26,5 @@ Create a repository on github.com and commit the source code there to a separate
 - Pavel Kraus: https://github.com/pavlix98
 
 Don't forget to invite these accounts to the project/repository at the beginning, so we can look at the code continuously and then adding the reviewer role works. 
+
+Using other tools or libraries like Docker, PHPUnit, formating tools,... is up to you
